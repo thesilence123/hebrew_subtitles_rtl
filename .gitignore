@@ -38,3 +38,4 @@ ENV/
 .idea/
 .sln.iml
 .srt
+*.orig
